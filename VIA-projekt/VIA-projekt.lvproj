@@ -43,6 +43,7 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Data_analyzer.vi" Type="VI" URL="../Data_analyzer.vi"/>
 		<Item Name="Example.vi" Type="VI" URL="/&lt;vilib&gt;/daqmxs/examples/Example.vi"/>
+		<Item Name="Data_analyzer_tester.vi" Type="VI" URL="../Data_analyzer_tester.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
