@@ -42,6 +42,7 @@
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Data_analyzer.vi" Type="VI" URL="../Data_analyzer.vi"/>
+		<Item Name="Stavy_Data_analyzer.ctl" Type="VI" URL="../Stavy_Data_analyzer.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>

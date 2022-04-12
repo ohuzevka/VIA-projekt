@@ -1,0 +1,10 @@
+Potřeba dodělat:
+-Zápis více dat do TDMS
+-Samostatná možnost otevření TDMS wiever
+-Popis dat v TDMS
+-Uzavírání souboru při ukončení/erroru
+-Zašedění tlačítek
+
+Vylepšení:
+
+
