@@ -37,6 +37,7 @@
 			<Item Name="Simple State Machine Documentation.html" Type="Document" URL="../documentation/Simple State Machine Documentation.html"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
+			<Item Name="Vstupni_cluster.ctl" Type="VI" URL="../Vstupni_cluster.ctl"/>
 			<Item Name="Stavy_Data_analyzer.ctl" Type="VI" URL="../Stavy_Data_analyzer.ctl"/>
 			<Item Name="Data.ctl" Type="VI" URL="../controls/Data.ctl"/>
 			<Item Name="State.ctl" Type="VI" URL="../controls/State.ctl"/>
