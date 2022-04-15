@@ -1,7 +1,7 @@
 Potřeba dodělat:
--Seskupit objekty
 -Error zprávy
 -Přejmenovat názvy
+-Popsat
 
 
 Vylepšení:
