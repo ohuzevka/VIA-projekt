@@ -1,10 +1,10 @@
 Potřeba dodělat:
--Popis dat v TDMS
--Uzavírání souboru při ukončení/erroru
--Zašedění tlačítek
-
+-Seskupit objekty
+-Error zprávy
+-Přejmenovat názvy
 
 
 Vylepšení:
-
-
+-Popis dat v TDMS
+-Vykreslování frekvence real time
+-Frekvence a signál v jednom grafu
