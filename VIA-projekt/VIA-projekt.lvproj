@@ -35,7 +35,7 @@
 				<Item Name="loc_new_state.png" Type="Document" URL="../documentation/loc_new_state.png"/>
 			</Item>
 			<Item Name="Simple State Machine Documentation.html" Type="Document" URL="../documentation/Simple State Machine Documentation.html"/>
-			<Item Name="Stavovy_diagram.png" Type="Document" URL="../../../../../Downloads/Stavovy_diagram.png"/>
+			<Item Name="Stavovy_diagram.png" Type="Document" URL="../documentation/Stavovy_diagram.png"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="Data.ctl" Type="VI" URL="../controls/Data.ctl"/>
